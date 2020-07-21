@@ -1,0 +1,19 @@
+body {
+    background-color: black
+}
+
+h1 {
+    text-align: center;
+    color: #f2bc24;
+    background: #173d91ea;
+    margin: 50px;
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    color: white
+}
+
+p {
+    color: white
+}
